@@ -1,0 +1,167 @@
+getting citations list for DOI: 10.1002/cpp.646
+url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1002/cpp.646/citations
+found 78 citations
+got the cite_list, starting creating Paper objects...
+
+processing paperId: ca712d9e8167cd30209fcbbbb38d234cbeacb5dc
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/ca712d9e8167cd30209fcbbbb38d234cbeacb5dc?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId ca712d9e8167cd30209fcbbbb38d234cbeacb5dc, status code: 429
+
+processing paperId: 173dcfe3c131d91cadd030c39c2cd9c31b0ac153
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/173dcfe3c131d91cadd030c39c2cd9c31b0ac153?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId 173dcfe3c131d91cadd030c39c2cd9c31b0ac153, status code: 429
+
+processing paperId: d39e71df539cc09015262c31fa6e650d103aea70
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/d39e71df539cc09015262c31fa6e650d103aea70?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId d39e71df539cc09015262c31fa6e650d103aea70, status code: 429
+
+processing paperId: e637be82f448217ac3e066a95445f0c302d0c7f5
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/e637be82f448217ac3e066a95445f0c302d0c7f5?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId e637be82f448217ac3e066a95445f0c302d0c7f5, status code: 429
+
+processing paperId: 1ba85ca178aae47da73f205e28d2ca307c279439
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/1ba85ca178aae47da73f205e28d2ca307c279439?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId 1ba85ca178aae47da73f205e28d2ca307c279439, status code: 429
+
+processing paperId: a79ae56827cc0f490a35235d657816d797212527
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/a79ae56827cc0f490a35235d657816d797212527?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId a79ae56827cc0f490a35235d657816d797212527, status code: 429
+
+processing paperId: 4b0b275ddccacc01071c80e3c814ab6fa824c978
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/4b0b275ddccacc01071c80e3c814ab6fa824c978?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId 4b0b275ddccacc01071c80e3c814ab6fa824c978, status code: 429
+
+processing paperId: a77da226cff150607ae52897a55a8183c6340f24
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/a77da226cff150607ae52897a55a8183c6340f24?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId a77da226cff150607ae52897a55a8183c6340f24, status code: 429
+
+processing paperId: d111f4e3bd0617fc0a1ec89342b9aff2b4171fb7
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/d111f4e3bd0617fc0a1ec89342b9aff2b4171fb7?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId d111f4e3bd0617fc0a1ec89342b9aff2b4171fb7, status code: 429
+
+processing paperId: 8eb7d67cb6dca14bead7a21aa4c366ca888d77ab
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/8eb7d67cb6dca14bead7a21aa4c366ca888d77ab?fields=title,abstract,externalIds,references
+creating Paper object...
+doi_full: https://doi.org/10.1007/s10942-024-00542-5
+title: Validation of Process-Based Components of the LIBET-Q: An Innovative Instrument 
+abstract: 
+references: []
+
+processing paperId: ab23d4df99022222de620520ed71725e8e5c1e0a
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/ab23d4df99022222de620520ed71725e8e5c1e0a?fields=title,abstract,externalIds,references
+creating Paper object...
+doi_full: https://doi.org/10.1017/ipm.2023.48
+title: Evaluation of a community-based intervention for youth mental health in rural Ir
+abstract: Abstract Background: This study aimed to provide information about pathways to c
+references: []
+
+processing paperId: a3d296701a93793af4b0f34bb60034a88739af12
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/a3d296701a93793af4b0f34bb60034a88739af12?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId a3d296701a93793af4b0f34bb60034a88739af12, status code: 429
+
+processing paperId: 64dfbea80e4cadaf04937150a3e61f8f31906dee
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/64dfbea80e4cadaf04937150a3e61f8f31906dee?fields=title,abstract,externalIds,references
+Failed to fetch data for reference {'paperId': '0cc7f893cedcb7c9c05d52bfe78d4fd6e8b436e5', 'title': 'Linguistic Predictors of Psychological Adjustment in Healthcare Workers during the COVID-19 Pandemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '8482ed24e4a5e821380baf61da6e99b2520ee191', 'title': 'Psychological Factors Explaining the COVID-19 Pandemic Impact on Mental Health: The Role of Meaning, Beliefs, and Perceptions of Vulnerability and Mortality'}, status code: 429
+Failed to fetch data for reference {'paperId': 'e64f2d156f9609c76f17bef5a8b08bd430c94fc4', 'title': 'Rewriting grief following bereavement and non-death loss: a pilot writing-for-wellbeing study'}, status code: 429
+Failed to fetch data for reference {'paperId': '704508dc887d6a124470ea40b5a9c97fb9280f69', 'title': 'A systematic review of the mental health changes of children and young people before and during the COVID-19 pandemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '13898f71dec44f867bad2af8f1833f79b202a529', 'title': 'Prospective examination of adolescent emotional intelligence and post-traumatic growth during and after COVID-19 lockdown'}, status code: 429
+Failed to fetch data for reference {'paperId': '8139be1535e55fc56028ac29c7859c6e308d5c9b', 'title': 'Did we learn something positive out of the COVID-19 pandemic? Post-traumatic growth and mental health in the general population'}, status code: 429
+Failed to fetch data for reference {'paperId': 'f1c4e07b4df073fba0b8671b13d6a4a7f349ee1f', 'title': 'The Integration of Stressful Life Experiences Scale and the Inventory of Complicated Spiritual Grief: The Italian Validation of Two Instruments for Meaning-Focused Assessments of Bereavement'}, status code: 429
+Failed to fetch data for reference {'paperId': '17d24ee52918f8f63ae3ea05a94a010c94462db0', 'title': 'Well-being, resilience and post-traumatic growth in the era of Covid-19 pandemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '381f9c3435aba2ebf042cb64ad3dadd5a6d61734', 'title': 'What Is the Role of Resilience and Coping Strategies on the Mental Health of the General Population during the COVID-19 Pandemic? Results from the Italian Multicentric COMET Study'}, status code: 429
+Failed to fetch data for reference {'paperId': '43385db18a0ca3b2379e76919b790734e0b5b88a', 'title': 'The long psychological shadow of COVID-19 upon healthcare workers: A global concern for action'}, status code: 429
+Failed to fetch data for reference {'paperId': 'bbec14c45f816818eb381f04328a972eaa5f001c', 'title': 'The Utility of the Pandemic Grief Scale in Identifying Functional Impairment from COVID-19 Bereavement.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'd48624cb80da79834c45fbbb7f41df4aaf9ccbc5', 'title': 'Anxiety, depression, and posttraumatic stress in nurses during the COVID-19 outbreak'}, status code: 429
+Failed to fetch data for reference {'paperId': 'f13b33026a8b337c19eabcbd52c3b5e5356e77ae', 'title': 'Post-traumatic Growth Dimensions Differently Mediate the Relationship Between National Identity and Interpersonal Trust Among Young Adults: A Study on COVID-19 Crisis in Italy'}, status code: 429
+Failed to fetch data for reference {'paperId': '5494d45cc401ba458e329562998ccd4e95a7e662', 'title': 'Post-Traumatic Growth and Stress-Related Responses During the COVID-19 Pandemic in a National Representative Sample: The Role of Positive Core Beliefs About the World and Others'}, status code: 429
+Failed to fetch data for reference {'paperId': 'e20bd99dac550596ec94bb6fa36213b515d2d182', 'title': 'Changes in Alcohol Use During the COVID-19 Pandemic: Impact of the Lockdown Conditions and Mental Health Factors'}, status code: 429
+Failed to fetch data for reference {'paperId': '4a556d28b664b43ce51fb51ef2d4e1403c3b2fcb', 'title': 'Modeling pandemic depression and anxiety: The mediational role of core beliefs and meaning making'}, status code: 429
+Failed to fetch data for reference {'paperId': '1691e92d31cbd4261a4b67e7adaee1eb0ea44d44', 'title': 'Bidirectional associations between COVID-19 and psychiatric disorder: retrospective cohort studies of 62\u2008354 COVID-19 cases in the USA'}, status code: 429
+Failed to fetch data for reference {'paperId': '1b2d14f0c5bd38f881e68ab4ea68bfebaadbed1a', 'title': 'Fostering the Reconstruction of Meaning Among the General Population During the COVID-19 Pandemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '285b870f0db82b088bdb48cec2f77fba4b591e04', 'title': 'Increased risk of COVID‐19 infection and mortality in people with mental disorders: analysis from electronic health records in the United States'}, status code: 429
+Failed to fetch data for reference {'paperId': '5c62b774efcfcbdc1c66deb78960644d5a45fac4', 'title': 'Association between trajectories of personal growth initiative and posttraumatic stress after Hurricane Harvey: A latent growth mixture modeling approach.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'd76f01db5129c0fb6d3f035394093ece6f9b2028', 'title': 'Peritraumatic reactions during the COVID-19 pandemic – The contribution of posttraumatic growth attributed to prior trauma'}, status code: 429
+Failed to fetch data for reference {'paperId': 'd4e2f13312e07853d78d952fcd294e7e75ec8ce9', 'title': 'Acute grief after deaths due to COVID-19, natural causes and unnatural causes: An empirical comparison'}, status code: 429
+Failed to fetch data for reference {'paperId': 'c400f685a756e4c15b833270b4c4fc9a9fc262e7', 'title': 'Impact of COVID-19 pandemic on mental health in the general population: A systematic review'}, status code: 429
+Failed to fetch data for reference {'paperId': 'f51d6eb64ae4c618d25e3617750241fcda7d6c7b', 'title': 'The effect of the COVID-19 lockdown on parents: A call to adopt urgent measures.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'a381e176f5a8ab4cd60a1b38917bd49550dc6796', 'title': 'Economic uncertainty before and during the COVID-19 pandemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '43f31ea2a3ff214937f93bfbcf015aa272d6bf97', 'title': 'Coronavirus Anxiety Scale: A brief mental health screener for COVID-19 related anxiety'}, status code: 429
+Failed to fetch data for reference {'paperId': 'c42102c6d4959052fb8e1f19028691c45913fa13', 'title': 'The differential psychological distress of populations affected by the COVID-19 pandemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '256a507eeff10ff08570ba10e316286d4c7b4174', 'title': 'Patients with mental health disorders in the COVID-19 epidemic'}, status code: 429
+Failed to fetch data for reference {'paperId': '456f80cce44648af4b83fb2065d2e7bf9541f924', 'title': 'The psychological impact of quarantine and how to reduce it: rapid review of the evidence'}, status code: 429
+Failed to fetch data for reference {'paperId': '75754401e6ea0fcbf189dbf0de6ca387d112566e', 'title': 'Core Beliefs Challenge and Posttraumatic Growth: Mediating Role of Rumination Among Internally Displaced Survivors of Terror Attacks'}, status code: 429
+Failed to fetch data for reference {'paperId': 'be0e61e80d72c451b53a156e13b0e671ad33949b', 'title': 'Meaning reconstruction in bereavement: Development of a research program'}, status code: 429
+Failed to fetch data for reference {'paperId': 'efd5d79f9f7e552cb168a15411d139a478df1b9a', 'title': 'An open trial of meaning-centered grief therapy: Rationale and preliminary evaluation'}, status code: 429
+Failed to fetch data for reference {'paperId': '6392d733e9bd4ac805707f27bd2d508017f913c3', 'title': 'Bereavement Outcomes as Causal Systems: A Network Analysis of the Co-Occurrence of Complicated Grief and Posttraumatic Growth'}, status code: 429
+Failed to fetch data for reference {'paperId': '42e172cb95a61a2edc0e48a60b799c4b81b943ca', 'title': 'ggeffects: Tidy Data Frames of Marginal Effects from Regression Models'}, status code: 429
+Failed to fetch data for reference {'paperId': 'a23d9703e64d66f6cbecb29702442b98911f5eb8', 'title': 'The Social Meaning in Life Events Scale (SMILES): A preliminary psychometric evaluation in a bereaved sample'}, status code: 429
+Failed to fetch data for reference {'paperId': '6e10e84e808af7f8c5df283c438467432556f277', 'title': 'Resilience and Physical and Mental Well-Being in Adults with and Without HIV'}, status code: 429
+Failed to fetch data for reference {'paperId': '45befeabf5184b37dc2da47d40a951e5f1e2c898', 'title': 'Post-traumatic growth as positive personality change: developing a measure to assess within-person variability'}, status code: 429
+Failed to fetch data for reference {'paperId': '9f941ea06c7a5094ad44180e5eb2b6ecf6b27055', 'title': 'Meaning reconstruction in the wake of loss: Evolution of a research program.'}, status code: 429
+Failed to fetch data for reference {'paperId': '9a63b03bcb96082d0330b3dfc9132188bd507a0b', 'title': 'Core belief challenge and rumination as predictors of PTSD and PTG among adolescent survivors of the Wenchuan earthquake.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'a5b1e05d519378565258b2d173f951875f1768f6', 'title': 'Relationships of Posttraumatic Growth and Stress Responses in Bereaved Young Adults'}, status code: 429
+Failed to fetch data for reference {'paperId': 'd1995adc97eb6a99394d36a9207ba48bc7076c44', 'title': 'Validation of the Integration of Stressful Life Experiences Scale–Short Form in a Bereaved Sample'}, status code: 429
+Failed to fetch data for reference {'paperId': '4558222a53af9d5d5f2265ef2fec950ae16a3e9c', 'title': 'Italian Adaptation and Confirmatory Factor Analysis of the Full and the Short Form of the Posttraumatic Growth Inventory'}, status code: 429
+Failed to fetch data for reference {'paperId': '250523e43c039328756df6d06381a3e43f6ea742', 'title': 'Prolonged Grief Symptoms and Growth in the First 2 Years of Bereavement Evidence for a Nonlinear Association'}, status code: 429
+Failed to fetch data for reference {'paperId': '44ace5246da0559e8fc73902c0ebd718e36f2607', 'title': 'The Core Beliefs Inventory: a brief measure of disruption in the assumptive world'}, status code: 429
+Failed to fetch data for reference {'paperId': '67b6a41d1c25027936ea369de8f9636b4f7ee787', 'title': 'Adjustment to severe acute respiratory syndrome (SARS): Roles of appraisal and post-traumatic growth'}, status code: 429
+Failed to fetch data for reference {'paperId': '9a24f00f81d32731b665fc3c91818404929f458f', 'title': 'Rationale and development of a general population well-being measure: Psychometric status of the GP-CORE in a student sample'}, status code: 429
+Failed to fetch data for reference {'paperId': '5c4131b5a8a1ff302a9051171a40a773fabd21e6', 'title': 'Il Patient Health Questionnaire (PHQ) per lo screening dei disturbi psichiatrici: uno studio di validazione nei confronti della Intervista Clinica Strutturata per il DSM-IV asse I (SCID-I)'}, status code: 429
+Failed to fetch data for reference {'paperId': '3fe632fa1e74d571a7e12d1ab1ce017699a242c3', 'title': "Facilitating Posttraumatic Growth: A Clinician's Guide"}, status code: 429
+Failed to fetch data for reference {'paperId': 'c7f1721fd2ba8660fa5315b6632816b0edc7b05a', 'title': 'Shattered Assumptions: Towards a New Psychology of Trauma'}, status code: 429
+Failed to fetch data for reference {'paperId': 'a2dfdf67fa3bcbaa36395af3868c75f1db99af10', 'title': 'Optimism'}, status code: 429
+Failed to fetch data for reference {'paperId': None, 'title': 'Social environment and Attitudes toward COVID-19 Anti-Contagious Measures. An Explorative study form Italy'}, status code: 429
+Failed to fetch data for reference {'paperId': None, 'title': 'A Language and Environment for Statistical Computing; R Foundation for Statistical Computing: Vienna, Austria, 2022'}, status code: 429
+Failed to fetch data for reference {'paperId': None, 'title': 'Longterm effects of COVID-19 on mental health: A systematic review'}, status code: 404
+Failed to fetch data for reference {'paperId': None, 'title': 'The institutional management of the COVID - 19 crisis in Italy : A qualitative study on the socio - cultural context underpinning the citizens ’ evaluation'}, status code: 404
+Failed to fetch data for reference {'paperId': None, 'title': 'Psychological effects of COVID - 19 in general Italian population in function of age and gender'}, status code: 404
+Failed to fetch data for reference {'paperId': '659408b243cec55de8d0a3bc51b81173007aa89b', 'title': 'R: A language and environment for statistical computing.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'e204b902c94a6b487a99adf37e65a43b295f0c60', 'title': 'Psychological Trauma : Theory , Research , Practice , and Policy Posttraumatic Growth , Meaning in Life , and Life Satisfaction in Response to Trauma'}, status code: 429
+Failed to fetch data for reference {'paperId': 'fb8bdfbdd16aad43409c0be701174cfa0ff86a83', 'title': 'Validation of the Italian version of the Clinical Outcomes in Routine Evaluation Outcome Measure (CORE-OM).'}, status code: 429
+Failed to fetch data for reference {'paperId': '9948d303099caa7915eb23da1df89602f70a0f1d', 'title': 'Posttraumatic Growth: Conceptual Foundations and Empirical Evidence'}, status code: 429
+Failed to fetch data for reference {'paperId': None, 'title': 'Theoretical and methodological issues in the assessment and interpretation of posttraumatic growth'}, status code: 429
+Failed to fetch data for reference {'paperId': None, 'title': 'The Janus face of self-perceived growth: Toward a two-component model of posttraumatic growth'}, status code: 429
+Failed to fetch data for reference {'paperId': 'b1b88940d0eafd750ae0cdbc4669b9ef0bba0384', 'title': 'The Posttraumatic Growth Inventory: Measuring the positive legacy of trauma'}, status code: 429
+Failed to fetch data for reference {'paperId': '0241da24fdb7420c8e863c8f5410df04ae3d17f8', 'title': 'Profile of mood states'}, status code: 429
+Failed to fetch data for reference {'paperId': '4d52b575f9055d62903bc0b829c1da475f5d571f', 'title': 'Manual for the Profile of Mood States'}, status code: 429
+creating Paper object...
+doi_full: https://doi.org/10.3390/ijerph20115991
+title: The Up-Side of the COVID-19 Pandemic: Are Core Belief Violation and Meaning Maki
+abstract: The negative impact of the COVID-19 pandemic on mental health has been extensive
+references: ['https://doi.org/10.1038/s41591-022-02028-2', 'https://doi.org/10.1016/j.jcbs.2022.08.008']
+
+processing paperId: ba6deac38ed33764e130b1ab86c8c0a5e95f655e
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/ba6deac38ed33764e130b1ab86c8c0a5e95f655e?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId ba6deac38ed33764e130b1ab86c8c0a5e95f655e, status code: 429
+
+processing paperId: ac5927b44dfe64b90ec003712950ad0ecae70f34
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/ac5927b44dfe64b90ec003712950ad0ecae70f34?fields=title,abstract,externalIds,references
+Failed to fetch data for paperId ac5927b44dfe64b90ec003712950ad0ecae70f34, status code: 429
+
+processing paperId: f41ac8ae1be720d614fa254775a860bca613b85c
+getting paper metadata at url: https://api.semanticscholar.org/graph/v1/paper/f41ac8ae1be720d614fa254775a860bca613b85c?fields=title,abstract,externalIds,references
+Failed to fetch data for reference {'paperId': '0113dc8e0995666c93f28dde92dc0fb2f52d7300', 'title': 'Advances in applications of item response theory to clinical assessment.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'cc608b824c8c7f55d0f628dcea6fb1c249777cd9', 'title': 'Comparing outcomes: The Clinical Outcome in Routine Evaluation from an international point of view'}, status code: 429
+Failed to fetch data for reference {'paperId': '2fb229f245f6f01fa0862b3f373524cf34caf128', 'title': 'The effect of length, duration, and intensity of psychological therapy on CORE global distress scores'}, status code: 429
+Failed to fetch data for reference {'paperId': 'e55f3fe85c6917c5cf9a508ee2e43a8a74e8cf44', 'title': 'Confirmatory factor analysis of Clinical Outcomes in Routine Evaluation (CORE-OM) used as a measure of emotional distress in people with tinnitus'}, status code: 429
+Failed to fetch data for reference {'paperId': 'df081ca3ae752065dbc9aaa983171c07a8801a1a', 'title': 'Mokken scales for testing both pre- and postintervention: an analysis of the Clinical Outcomes in Routine Evaluation-Outcome Measure (CORE-OM) before and after counseling.'}, status code: 429
+Failed to fetch data for reference {'paperId': '0f93f5cc3e33ea7539a90e8d087ca859ffe4ec4a', 'title': 'An Introduction to Item Response Theory for Patient-Reported Outcome Measurement'}, status code: 429
+Failed to fetch data for reference {'paperId': '24faf5e0bc85e67868d1b7798636702ec4ad0263', 'title': 'Item response theory: how Mokken scaling can be used in clinical practice.'}, status code: 429
+Failed to fetch data for reference {'paperId': '44572781d0b284e2753e84cc247013dc59640120', 'title': 'The Value of Item Response Theory in Clinical Assessment: A Review'}, status code: 429
+Failed to fetch data for reference {'paperId': '108fe548adfc71bd7fa736717caa3de938c18cb6', 'title': 'Validation of the Swedish version of the Clinical Outcomes in Routine Evaluation Outcome Measure (CORE-OM).'}, status code: 429
+Failed to fetch data for reference {'paperId': '00d00684bc1352ab8ea9e0ee36ef48a1c53eddd6', 'title': 'An NCME Instructional Module on Using Differential Step Functioning to Refine the Analysis of DIF in Polytomous Items'}, status code: 429
+Failed to fetch data for reference {'paperId': '2e5fa476bede611d22894a3c878d0e0cd3072a5d', 'title': 'Dimensions of variation on the CORE-OM.'}, status code: 429
+Failed to fetch data for reference {'paperId': '97c4a88beac98f6ff411afb196ac9a50f604bb4c', 'title': 'A core approach to practice-based evidence: A brief history of the origins and applications of the CORE-OM and CORE System'}, status code: 429
+Failed to fetch data for reference {'paperId': 'eb23d524ec9cd20464ffd2559d55f345cfb87441', 'title': 'CORE: Clinical Outcomes in Routine Evaluation'}, status code: 429
+Failed to fetch data for reference {'paperId': 'b9da812b7b3e43b13842b3386bb4a09524c55e00', 'title': 'The Hospital Anxiety and Depression Scale'}, status code: 429
+Failed to fetch data for reference {'paperId': '7e844c8ece0e76f438eaa269b0f8749f45b189b9', 'title': 'Dimensionality of the Russian CORE-OM from a Rasch Perspective.'}, status code: 429
+Failed to fetch data for reference {'paperId': 'fb8bdfbdd16aad43409c0be701174cfa0ff86a83', 'title': 'Validation of the Italian version of the Clinical Outcomes in Routine Evaluation Outcome Measure (CORE-OM).'}, status code: 429
+Failed to fetch data for reference {'paperId': None, 'title': 'What is item response theory, IRT? A tentative taxonomy'}, status code: 429
+Failed to fetch data for reference {'paperId': '2d4c958ebc9a59cf726fe2ed1f9668ee9a40be93', 'title': 'Investigating rating scale category utility.'}, status code: 429
+Failed to fetch data for reference {'paperId': '55597eb2f6d56e2d603472e1a5699d3b6c66898a', 'title': 'SCL-90: an outpatient psychiatric rating scale--preliminary report.'}, status code: 429
+creating Paper object...
+doi_full: https://doi.org/10.1002/cpp.2808
+title: Examining the psychometric properties of the Swedish version of Clinical Outcome
+abstract: The aim of this study was to examine the psychometric properties of the Swedish 
+references: ['https://doi.org/10.3109/08039488.2013.797023', 'https://doi.org/10.1002/cpp.649']

@@ -1,0 +1,16 @@
+2025-08-22 22:42:42,874 [INFO] Starting paper update process from file: /home/ubuntu/openalex/workspace/zimo.li/task5v3files/2023-08-06.jsonl
+2025-08-22 22:42:42,884 [INFO] Table 'task10crossref' not found. Processing all papers as new.
+2025-08-22 22:42:42,934 [INFO] Embedding 4 unique titles and 4 unique abstracts...
+2025-08-22 22:42:44,281 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-22 22:42:45,167 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-22 22:42:45,169 [INFO] Embedding generation complete.
+2025-08-22 22:42:45,182 [INFO] Creating new table 'task10crossref' and adding 4 papers.
+2025-08-22 22:42:45,191 [INFO] Successfully processed 4 papers.
+2025-08-29 14:44:07,805 [INFO] Starting paper update process from file: /home/ubuntu/openalex/workspace/zimo.li/task5v3files/2023-08-06.jsonl
+2025-08-29 14:44:07,884 [INFO] Table 'task11test_zimo' not found. Processing all papers as new.
+2025-08-29 14:44:07,961 [INFO] Embedding 4 unique titles and 4 unique abstracts...
+2025-08-29 14:44:15,538 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-29 14:44:23,341 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-29 14:44:23,343 [INFO] Embedding generation complete.
+2025-08-29 14:44:23,359 [INFO] Creating new table 'task11test_zimo' and adding 4 papers.
+2025-08-29 14:44:23,515 [INFO] Successfully processed 4 papers.

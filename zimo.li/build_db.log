@@ -1,0 +1,34 @@
+2025-08-29 14:46:11,859 [INFO] Starting paper update process from file: /home/ubuntu/openalex/workspace/zimo.li/task5v3files/2023-08-06.jsonl
+2025-08-29 14:46:11,880 [INFO] Checking for existing papers in the database...
+2025-08-29 14:46:12,045 [INFO] Found 4 papers to process.
+2025-08-29 14:46:12,045 [INFO]   - 0 new papers
+2025-08-29 14:46:12,045 [INFO]   - 0 papers with changed title/abstract (will re-embed)
+2025-08-29 14:46:12,045 [INFO]   - 4 papers with unchanged title/abstract (will copy embeddings)
+2025-08-29 14:46:12,095 [INFO] Embedding 0 unique titles and 0 unique abstracts...
+2025-08-29 14:46:12,096 [INFO] Embedding generation complete.
+2025-08-29 14:46:12,108 [INFO] Deleting 4 old versions of papers...
+2025-08-29 14:46:12,117 [INFO] Deletion of old versions complete.
+2025-08-29 14:46:12,117 [INFO] Adding 4 new/updated papers to table 'task11test_zimo'.
+2025-08-29 14:46:12,126 [INFO] Successfully processed 4 papers.
+2025-08-29 14:46:35,710 [INFO] Starting paper update process from file: /home/ubuntu/openalex/workspace/zimo.li/task5v3files/2023-08-08.jsonl
+2025-08-29 14:46:35,722 [INFO] Checking for existing papers in the database...
+2025-08-29 14:46:35,744 [INFO] Found 1 papers to process.
+2025-08-29 14:46:35,744 [INFO]   - 1 new papers
+2025-08-29 14:46:35,744 [INFO]   - 0 papers with changed title/abstract (will re-embed)
+2025-08-29 14:46:35,744 [INFO]   - 0 papers with unchanged title/abstract (will copy embeddings)
+2025-08-29 14:46:35,794 [INFO] Embedding 1 unique titles and 0 unique abstracts...
+2025-08-29 14:46:37,726 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-29 14:46:37,729 [INFO] Embedding generation complete.
+2025-08-29 14:46:37,740 [INFO] Adding 1 new/updated papers to table 'task11test_zimo'.
+2025-08-29 14:46:37,749 [INFO] Successfully processed 1 papers.
+2025-08-29 14:47:02,582 [INFO] Starting paper update process from file: /home/ubuntu/openalex/workspace/zimo.li/task5v3files/2023-11-12.jsonl
+2025-08-29 14:47:02,596 [INFO] Checking for existing papers in the database...
+2025-08-29 14:47:02,619 [INFO] Found 2 papers to process.
+2025-08-29 14:47:02,620 [INFO]   - 2 new papers
+2025-08-29 14:47:02,620 [INFO]   - 0 papers with changed title/abstract (will re-embed)
+2025-08-29 14:47:02,620 [INFO]   - 0 papers with unchanged title/abstract (will copy embeddings)
+2025-08-29 14:47:02,670 [INFO] Embedding 2 unique titles and 0 unique abstracts...
+2025-08-29 14:47:03,992 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-29 14:47:03,995 [INFO] Embedding generation complete.
+2025-08-29 14:47:04,007 [INFO] Adding 2 new/updated papers to table 'task11test_zimo'.
+2025-08-29 14:47:04,016 [INFO] Successfully processed 2 papers.
